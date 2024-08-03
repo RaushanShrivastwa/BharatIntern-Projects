@@ -42,6 +42,11 @@ nav ul li a {
 
 section {
     padding: 2em;
+    border-style: solid;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 .project {
